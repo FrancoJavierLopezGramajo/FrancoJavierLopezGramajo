@@ -66,8 +66,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?short_path=9b71c45" height="30" alt="Github Dark logo"/><!--Github-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  /><!--Docker-->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Javascript logo"  /><!--JS-->
 </div>
 
 ###
