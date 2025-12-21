@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg" height="30" alt="CSS3 logo"/><!--CSS3-->
   <img width="12" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/powerbi.svg"  height="30" alt="PowerBI logo" /><!--PowerBI-->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  /><!--Python-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="Pycharm logo"  /><!--Pycharm-->
@@ -38,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  /><!--Jupyter-->
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height="30" alt="Markdown Dark logo"/><!--Markdown-->
+  <img width="12" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/json.svg" height="30" alt="JSON logo"/><!--JSON-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy logo"  /><!--Numpy-->
   <img width="12" />
@@ -49,23 +53,42 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="Opencv logo"  /><!--OpenCV-->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="Fastapi logo"  /><!--FastAPI-->
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-spark.svg" height="30" alt="Spark logo"/><!--Spark-->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="Sqlalchemy logo"  /><!--SQLalchemy-->
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/clickhouse.svg" height="30" alt="ClickHouse logo"  /><!--ClickHouse-->
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" height="30" alt="FastAPI logo" /><!--FastAPI-->
+  <img/>
+  <img src="https://api.iconify.design/logos:openapi-icon.svg?width=30&height=30" alt="OpenAPI logo" /><!--OpenAPI-->
+  <img width="12" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/swagger.svg" height="30" alt="Swagger logo" /><!--Swagger-->
+  <img width="12" />
+  <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg" height="30" alt="SQLModel logo" /><!--SQLModel-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="Sqlite logo"  /><!--SQLite-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="Postgresql logo"  /><!--PostgreSQL-->
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  /><!--Docker-->
+  <img width="12" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/podman.svg" height="30" alt="Podman logo"/><!--Podman-->
+  <img width="12" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/open-source-initiative.svg"  height="30" alt="Open Source Initiative" /><!--Open Source Initiative-->
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg?short_path=608680d" height="30" alt="Linux Dark logo" /><!--Linux-->
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/fedora.svg?short_path=9cd5346" height="30" alt="Fedora logo"/><!--Fedora-->
   <img width="12" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/alma-linux.svg" height="30" alt="Alma logo"  /><!--Alma-->
+  <img width="12" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/kde.svg" height="30" alt="KDE logo"/><!--KDE-->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  /><!--git-->
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?short_path=9b71c45" height="30" alt="Github Dark logo"/><!--Github-->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  /><!--Docker-->
+  <img/>
+  <img src="https://api.iconify.design/logos:mercurial.svg?width=30&height=30" alt="Mercurial" /><!--Mercurial-->
+
 </div>
 
 ###
