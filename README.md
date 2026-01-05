@@ -55,8 +55,6 @@
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-spark.svg" height="30" alt="Spark logo"/><!--Spark-->
   <img width="12" />
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/clickhouse.svg" height="30" alt="ClickHouse logo"  /><!--ClickHouse-->
-  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" height="30" alt="FastAPI logo" /><!--FastAPI-->
   <img/>
   <img src="https://api.iconify.design/logos:openapi-icon.svg?width=30&height=30" alt="OpenAPI logo" /><!--OpenAPI-->
@@ -65,9 +63,13 @@
   <img width="12" />
   <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg" height="30" alt="SQLModel logo" /><!--SQLModel-->
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="Postgresql logo"  /><!--PostgreSQL-->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="Sqlite logo"  /><!--SQLite-->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="Postgresql logo"  /><!--PostgreSQL-->
+  <img src="https://github.com/FrancoJavierLopezGramajo/FrancoJavierLopezGramajo/blob/main/icon/DuckDB_icon-darkmode.svg" height="30" alt="DuckDB logo"  /><!--DuckDB-->
+  <img width="12" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/clickhouse.svg" height="30" alt="ClickHouse logo"  /><!--ClickHouse-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  /><!--Docker-->
   <img width="12" />
