@@ -61,6 +61,8 @@
   <img width="12" />
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/swagger.svg" height="30" alt="Swagger logo" /><!--Swagger-->
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" height="30" alt="NGINX logo" /><!--NGINX-->
+  <img width="12" />
   <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-vector.svg" height="30" alt="SQLModel logo" /><!--SQLModel-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="Postgresql logo"  /><!--PostgreSQL-->
