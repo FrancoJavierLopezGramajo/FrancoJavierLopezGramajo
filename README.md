@@ -1,5 +1,5 @@
 <!--About-->
-<h2 align="left">☎️ Hi there! I'm Franco. I research and explore the advantages of Artificial Intelligence and Big Data in video and media development. 🌱 My background in media, data science, electromechanical and psychosocial techniques has led me to an interdisciplinary understanding of the audiovisual and media field. 💻 I'm programming mainly in Python and I'm interested in Learning Computer Vision, GenAI, Data Engineering and AI Engineering. 😎 The adventure of knowledge leads me to present here my codes.... ⚡⚡</h2>
+<h2 align="left">☎️ Hi there! I'm Franco. I research and explore the advantages of Artificial Intelligence and Big Data in video and media development. 🌱 My background in social communication, data science, electromechanical and psychosocial techniques has led me to an interdisciplinary understanding of the audiovisual and media field. 💻 I'm programming mainly in Python and I'm interested in Learning Computer Vision, GenAI, Data Engineering and AI Engineering. 😎 The adventure of knowledge leads me to present here my codes.... ⚡⚡</h2>
 
 ###
 <!--TerminatorCV-->
@@ -97,9 +97,9 @@
 
 ###
 
-<!--Contact-->
+<!--Contact & Networks 1-->
 <div align="left">
-  <a href="https://www.linkedin.com/in/franco-javier-lopez-gramajo">
+  <a href="https://www.linkedin.com/in/francolg">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://www.hackerrank.com/profile/francolopez">
@@ -107,14 +107,26 @@
   </a>
   <a href="https://discord.com/channels/FrancoLopezG">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <a href="https://www.kaggle.com/francolopezgramajo">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
+  </a>
+  <a href="https://dev.to/francolg">
+  <img src="https://img.shields.io/static/v1?message=DEV&logo=dev.to&label=&color=171717&logoColor=white&style=for-the-badge" height="35" alt="dev.to logo" />
   </a>
   <a href="https://habr.com/en/users/FrancoLG/">
   <img src="https://img.shields.io/badge/Habr-77A2B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMiAyQzYuNDc3IDIgMiA2LjQ3NyAyIDEyQzIgMTcuNTIzIDYuNDc3IDIyIDEyIDIyQzE3LjUyMyAyMiAyMiAxNy41MjMgMjIgMTJDMjIgNi40NzcgMTcuNTIzIDIgMTIgMlpNMTIgMjBDNy41ODkgMjAgNCAxNi40MTEgNCAxMkM0IDcuNTg5IDcuNTg5IDQgMTIgNEMxNi40MTEgNCAyMCA3LjU4OSAyMCAxMkMyMCAxNi40MTEgMTYuNDExIDIwIDEyIDIwWk0xMiA2QzguNjg2IDYgNiA4LjY4NiA2IDEyQzYgMTUuMzE0IDguNjg2IDE4IDEyIDE4QzE1LjMxNCAxOCAxOCAxNS4zMTQgMTggMTJDMTggOC42ODYgMTUuMzE0IDYgMTIgNlpNMTIgMTZDOS43OSAxNiA4IDE0LjIxIDggMTJDOCA5Ljc5IDkuNzkgOCAxMiA4QzE0LjIxIDggMTYgOS43OSAxNiAxMkMxNiAxNC4yMSAxNC4yMSAxNiAxMiAxNloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white" alt="habr" height="35"/>
 </a>
 </div>
-
+<!-- Contact & Networks 2 -->
+<div align="left">
+  <a href="https://www.kaggle.com/francolopezgramajo">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
+  </a>
+  <a href="https://openprofile.dev/profile/francolopezgramajo">
+    <img src="https://img.shields.io/static/v1?message=LFX&logo=linuxfoundation&label=&color=f5f5f5&logoColor=063a6a&style=for-the-badge" height="35" alt="lfx logo" />
+  </a>
+  <a href="https://www.freecodecamp.org/FrancoLG">
+    <img src="https://img.shields.io/static/v1?message=FreeCodeCamp&logo=freecodecamp&label=&color=03031c&logoColor=white&style=for-the-badge" height="35" alt="freecodecamp logo" />
+  </a>
+</div>
 
 ###
 <!--SnakeGame-->
