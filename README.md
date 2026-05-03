@@ -21,13 +21,13 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg?short_path=000227f" height="30" alt="Aftereffects logo"/><!--AfterEffect-->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo"  /><!--Figma-->
+  <img src="https://api.iconify.design/logos:figma.svg?width=25&height=25" alt="Figma" /><!--Figma-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo"  /><!--Canvas-->
   <img width="12" />
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" height="30" alt="HTML5 logo"  /><!--HTML5-->
+  <img src="https://github.com/FrancoJavierLopezGramajo/FrancoJavierLopezGramajo/blob/main/icon/skill-icons--html5.svg" height="30" alt="HTML5 logo"  /><!--HTML5-->
   <img width="12" />
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg" height="30" alt="CSS3 logo"/><!--CSS3-->
+  <img src="https://github.com/FrancoJavierLopezGramajo/FrancoJavierLopezGramajo/blob/main/icon/skill-icons--css3.svg" height="30" alt="CSS3 logo"  /><!--CSS3-->
   <img width="12" />
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/powerbi.svg"  height="30" alt="PowerBI logo" /><!--PowerBI-->
   <img width="12" />
@@ -51,11 +51,13 @@
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" height="30" alt="Matplotlib logo"/><!--Matplotlib-->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="Opencv logo"  /><!--OpenCV-->
+  <img src="https://api.iconify.design/logos:opencv.svg?width=30&height=30" alt="OpenCV logo" /><!--OpenCV-->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="Postgresql logo"  /><!--PostgreSQL-->
+  <img src="https://api.iconify.design/logos:postgresql.svg?width=30&height=30" alt="PostgreSQL logo" /><!--PostgreSQL-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="Sqlite logo"  /><!--SQLite-->
+  <img width="12" />
+  <img src="https://github.com/FrancoJavierLopezGramajo/FrancoJavierLopezGramajo/blob/main/icon/skill-icons--mongodb.svg" height="30" alt="MongoDB logo"  /><!--MongoDB-->
   <img width="12" />
   <img src="https://github.com/FrancoJavierLopezGramajo/FrancoJavierLopezGramajo/blob/main/icon/DuckDB_icon-darkmode.svg" height="30" alt="DuckDB logo"  /><!--DuckDB-->
   <img width="12" />
@@ -79,7 +81,7 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?short_path=9b71c45" height="30" alt="Github Dark logo"/><!--Github-->
   <img/>
-  <img src="https://api.iconify.design/logos:mercurial.svg?width=30&height=30" alt="Mercurial" /><!--Mercurial-->
+  <img src="https://api.iconify.design/logos:mercurial.svg?width=30&height=30" alt="Mercurial logo" /><!--Mercurial-->
 
 </div>
 
