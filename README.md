@@ -35,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="Pycharm logo"  /><!--Pycharm-->
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/streamlit" height="30" alt="Streamlit logo"/><!--Streamlit -->
+  <img width="12" />
+  <img src="https://api.iconify.design/logos:opencv.svg?width=30&height=30" alt="OpenCV logo" /><!--OpenCV-->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda logo"  /><!--Anaconda-->
   <<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  /><!--Jupyter-->
@@ -42,6 +46,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height="30" alt="Markdown Dark logo"/><!--Markdown-->
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/json.svg" height="30" alt="JSON logo"/><!--JSON-->
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apacheparquet" height="30" alt="Parquet logo"/><!--Parquet -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy logo"  /><!--Numpy-->
   <img width="12" />
@@ -51,7 +57,7 @@
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" height="30" alt="Matplotlib logo"/><!--Matplotlib-->
   <img width="12" />
-  <img src="https://api.iconify.design/logos:opencv.svg?width=30&height=30" alt="OpenCV logo" /><!--OpenCV-->
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-spark.svg" height="30" alt="Spark logo"/><!--Spark-->
   <img width="12" />
   <img src="https://api.iconify.design/logos:postgresql.svg?width=30&height=30" alt="PostgreSQL logo" /><!--PostgreSQL-->
   <img width="12" />
@@ -67,6 +73,12 @@
   <img width="12" />
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/podman.svg" height="30" alt="Podman logo"/><!--Podman-->
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  /><!--git-->
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?short_path=9b71c45" height="30" alt="Github Dark logo"/><!--Github-->
+  <img/>
+  <img src="https://api.iconify.design/logos:mercurial.svg?width=30&height=30" alt="Mercurial logo" /><!--Mercurial-->
+  <img width="12" />
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/open-source-initiative.svg"  height="30" alt="Open Source Initiative" /><!--Open Source Initiative-->
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg?short_path=608680d" height="30" alt="Linux Dark logo" /><!--Linux-->
@@ -76,12 +88,6 @@
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/alma-linux.svg" height="30" alt="Alma logo"  /><!--Alma-->
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/kde.svg" height="30" alt="KDE logo"/><!--KDE-->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  /><!--git-->
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?short_path=9b71c45" height="30" alt="Github Dark logo"/><!--Github-->
-  <img/>
-  <img src="https://api.iconify.design/logos:mercurial.svg?width=30&height=30" alt="Mercurial logo" /><!--Mercurial-->
 
 </div>
 
