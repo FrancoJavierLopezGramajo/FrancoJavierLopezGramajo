@@ -1,13 +1,12 @@
 <!--About-->
 <h2 align="left">☎️ Hi there! I'm Franco. I research and explore the advantages of Artificial Intelligence and Big Data in video and media development. 🌱 My background in social communication, data science, electromechanical and psychosocial techniques has led me to an interdisciplinary understanding of the audiovisual and media field. 💻 I'm programming mainly in Python and I'm interested in Learning Computer Vision, GenAI, Data Engineering and AI Engineering. 😎 The adventure of knowledge leads me to present here my codes.... ⚡⚡</h2>
 
-###
-<!--TerminatorCV-->
-<img align="right" height="150" src="https://i.gifer.com/1TmB.gif"  />
+
 
 ###
 
 <div align="left">
+  <div><!--Design--> 
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe.svg?short_path=59623d6" height="30" alt="ADOBE logo"/><!--Adobe-->
   <img width="12" />
@@ -21,15 +20,22 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg?short_path=000227f" height="30" alt="Aftereffects logo"/><!--AfterEffect-->
   <img width="12" />
-  <img src="https://api.iconify.design/logos:figma.svg?width=25&height=25" alt="Figma" /><!--Figma-->
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/figma.svg" height="30" alt="Figma logo" /><!--Figma-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo"  /><!--Canvas-->
   <img width="12" />
   <img src="https://github.com/FrancoJavierLopezGramajo/FrancoJavierLopezGramajo/blob/main/icon/skill-icons--html5.svg" height="30" alt="HTML5 logo"  /><!--HTML5-->
+</div><hr/>
+
+###
+<!--TerminatorCV-->
+<img align="right" height="150" src="https://i.gifer.com/1TmB.gif"  />
+
+###
+
+<div><!--Develope-->
   <img width="12" />
   <img src="https://github.com/FrancoJavierLopezGramajo/FrancoJavierLopezGramajo/blob/main/icon/skill-icons--css3.svg" height="30" alt="CSS3 logo"  /><!--CSS3-->
-  <img width="12" />
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/powerbi.svg"  height="30" alt="PowerBI logo" /><!--PowerBI-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  /><!--Python-->
   <img width="12" />
@@ -37,10 +43,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/streamlit" height="30" alt="Streamlit logo"/><!--Streamlit -->
   <img width="12" />
-  <img src="https://api.iconify.design/logos:opencv.svg?width=30&height=30" alt="OpenCV logo" /><!--OpenCV-->
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda logo"  /><!--Anaconda-->
-  <<img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo"  /><!--Jupyter-->
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" height="30" alt="Markdown Dark logo"/><!--Markdown-->
@@ -59,7 +63,7 @@
   <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-spark.svg" height="30" alt="Spark logo"/><!--Spark-->
   <img width="12" />
-  <img src="https://api.iconify.design/logos:postgresql.svg?width=30&height=30" alt="PostgreSQL logo" /><!--PostgreSQL-->
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postgresql.svg" height="30" alt="PostgreSQL logo" /><!--PostgreSQL-->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="Sqlite logo"  /><!--SQLite-->
   <img width="12" />
@@ -73,11 +77,11 @@
   <img width="12" />
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/podman.svg" height="30" alt="Podman logo"/><!--Podman-->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  /><!--git-->
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/formbricks.svg" height="30" alt="Formbrick logo"  /><!--Formbrick-->
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?short_path=9b71c45" height="30" alt="Github Dark logo"/><!--Github-->
-  <img/>
-  <img src="https://api.iconify.design/logos:mercurial.svg?width=30&height=30" alt="Mercurial logo" /><!--Mercurial-->
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/powerbi.svg"  height="30" alt="PowerBI logo" /><!--PowerBI-->
+  <img width="12" />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" height="46" alt="OpenCV logo" /><!--OpenCV-->
   <img width="12" />
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/open-source-initiative.svg"  height="30" alt="Open Source Initiative" /><!--Open Source Initiative-->
   <img width="12" />
@@ -87,13 +91,21 @@
   <img width="12" />
   <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/alma-linux.svg" height="30" alt="Alma logo"  /><!--Alma-->
   <img width="12" />
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/debian-linux.svg" height="30" alt="Debian logo"  /><!--Debian-->
+  <img width="12" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/kde.svg" height="30" alt="KDE logo"/><!--KDE-->
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  /><!--git-->
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?short_path=9b71c45" height="30" alt="Github logo"/><!--Github-->
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mercurial/999999" height="30" alt="Mercurial logo" /><!--Mercurial-->
 </div>
 
 ###
 
 <!--Contact & Networks 1-->
+<hr/>
 <div align="left">
   <a href="https://www.linkedin.com/in/francolg">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
